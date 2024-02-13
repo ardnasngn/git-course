@@ -1,4 +1,4 @@
-# git-cours
+# git-course
 
 ## Initialize
 
